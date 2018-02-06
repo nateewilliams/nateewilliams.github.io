@@ -40,6 +40,10 @@
 
 }
 
+.top-spacing{
+	padding-top: 100px;
+}
+
 .img-width{
 	width: 100%;
 
@@ -89,12 +93,6 @@
     width: 100%;
 }
 
-.caro-size{
-	height: 50vh;
-
-
-}
-
 .sticky{
 position: fixed;
     width: 100%;
@@ -102,7 +100,13 @@ position: fixed;
 }
 
 .pic-pos{
-	height: 70vh;
-	width: 70vw;
+	height: 60vh;
+	width: 60vw;
+	padding-bottom: 500px;
+	margin-top: 50px;
 }
 
+.row-pos{
+	margin-top: 50px;
+
+}
